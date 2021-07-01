@@ -9,25 +9,25 @@ const weatherOptions = {
         iconName: "weather-lightning",
         gradient: ["#373B44", "#4286f4"],
         title: "Thunderstorm in the house",
-        subtitle: "Actually, outside of the house"
+        subtitle: "토르 두두둥장"
     },
     Drizzle: {
         iconName: "weather-hail",
         gradient: ["#89F7FE", "#66A6FF"],
         title: "Drizzle",
-        subtitle: "Is like rain, but gay 🏳️‍🌈"
+        subtitle: "It's rain, but feel so gooooood 🏳️‍🌈"
     },
     Rain: {
         iconName: "weather-rainy",
         gradient: ["#00C6FB", "#005BEA"],
         title: "Raining like a MF",
-        subtitle: "For more info look outside"
+        subtitle: "깡"
     },
     Snow: {
         iconName: "weather-snowy",
         gradient: ["#7DE2FC", "#B9B6E5"],
         title: "Cold as balls",
-        subtitle: "Do you want to build a snowman? Fuck no."
+        subtitle: "하얀 쓰레기 ^^"
     },
     Atmosphere: {
         iconName: "weather-hail",
@@ -37,7 +37,7 @@ const weatherOptions = {
         iconName: "weather-sunny",
         gradient: ["#FF7300", "#FEF253"],
         title: "Sunny as fuck",
-        subtitle: "Go get your ass burnt"
+        subtitle: "일단 떠나자"
     },
     Clouds: {
         iconName: "weather-cloudy",
@@ -49,7 +49,7 @@ const weatherOptions = {
         iconName: "weather-hail",
         gradient: ["#4DA0B0", "#D39D38"],
         title: "Mist!",
-        subtitle: "It's like you have no glasses on."
+        subtitle: "앞이 안보여 ㅠㅠ"
     },
     Dust: {
         iconName: "weather-hail",
