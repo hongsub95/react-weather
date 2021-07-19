@@ -20,7 +20,7 @@ const weatherOptions = {
     Rain: {
         iconName: "weather-rainy",
         gradient: ["#00C6FB", "#005BEA"],
-        title: "Raining like a MF",
+        title: "It's rain",
         subtitle: "깡"
     },
     Snow: {
